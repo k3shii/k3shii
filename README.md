@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm k3shi</h1>
-<h3 align="center">Security Technology Student</h3>
+<h3 align="center">Security Technology Student and Cybersecurity Enthusiast</h3>
 
 - 🌱 I’m currently learning **Networking & CTF Stuff**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
