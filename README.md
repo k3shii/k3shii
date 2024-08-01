@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm k3shi</h1>
-<h3 align="center">Security Technology Student and Cybersecurity Enthusiast</h3>
+<h3 align="center">Security Technology Student</h3>
 
-- 🌱 I’m currently learning **Networking & CTF Stuff**
+- 🌱 I’m Cybersecurity Enthuasiast primarily focusing on offesnsive security and would like to expand my knowledge in future with some network security and blue team knowledge.
+- *-Happy Hacking*
 
 <p align="left">
 </p>
